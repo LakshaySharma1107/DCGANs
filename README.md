@@ -12,6 +12,9 @@
      ```python
      dataroot = "path/to/img_align_celeba"
      ```
+    
+![Screenshot 2025-03-07 154551](https://github.com/user-attachments/assets/24fa7e09-634e-44ad-9e20-69df5828bc97)
+
 
 3. **Transformations Applied:**
 
@@ -69,6 +72,7 @@
 ## Expected Outputs
 
 - The model should generate **realistic-looking faces** after training.
+- ![image](https://github.com/user-attachments/assets/849c13fc-fff6-43d4-a5dc-81caea3e7a81)
 - The generated images will be saved periodically during training.
 - Sample output images will be available in `generated_samples.png`.
 
